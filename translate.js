@@ -1,5 +1,5 @@
 function Translate(word,language){//translate objesini oluşturuyoruz
-    this.apiKey="trnsl.1.1.20190827T125251Z.e32389ed4aae8642.3d4b1e4efbd85622434a4b8f7a6a71af652ccd3e";
+    this.apiKey="your_api_key";
     this.word=word;
     this.language=language;
 
